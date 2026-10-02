@@ -1,7 +1,3 @@
-# Identidade e superfície
+# Superfície atual
 
-Modo: Read. Página temporária de construção, não uma loja de serviços.
-
-Navy `#061225`, texto `#f1f6ff`, texto secundário `#a7bbd5`, ciano `#4bdde8`, ouro `#ffd05a`, linhas `#243650`. Fonte Manrope, pesos 400 a 800. Marca vetorial azul/dourado e título tipográfico dominam a primeira vista. À direita, globo matemático de paralelos, meridianos e pontos, com rotação lenta. Sem fotografia, banner, cartões de ação ou progresso numérico.
-
-Desktop: duas colunas e faixa de dez serviços; tablet: serviços em cinco colunas; celular: conteúdo seguido do globo e serviços em três colunas. Conteúdo visível sem animação de entrada; movimento reduzido desativa rotação, flutuação e sinal. Endereço deve ser factual e inserido depois de confirmado.
+A pedido do cliente, exibir exclusivamente o banner original de A-certic.com. Fundo #041431. Imagem em proporção original 1600×900, ajustada à tela com object-fit: contain e sem recorte ou distorção. Sem efeitos, controles, tipografia adicional ou rodapé separado. O texto da arte consta em alt para leitores de tela.

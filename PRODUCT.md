@@ -1,3 +1,3 @@
 # Produto
 
-Página temporária para A-certic.com, no repositório NONY09/artic.com. Visitantes devem reconhecer a empresa e entender imediatamente que o site está em construção. Conteúdo e serviços derivados exclusivamente da imagem fornecida; endereço pendente. Hospedagem futura no Netlify pelo usuário, DNS no GoDaddy. Sem formulários, contas, navegação de serviços ou promessas de data. Usuário autorizou execução e efeitos discretos, pediu página real em vez de banner colado.
+Página temporária A-certic.com no repositório NONY09/artic.com. Revisão solicitada: usar somente a imagem original aprovada pelo cliente, removendo a composição animada da página pública. Hospedagem no Netlify e DNS no GoDaddy. Sem funções transacionais ou progresso real.
